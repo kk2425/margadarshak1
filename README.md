@@ -1,16 +1,31 @@
-# myapp
+# Margadarshak – AI-Powered College & Career Guidance App
 
-A new Flutter project.
+## Overview
+Margadarshak is a student-focused career guidance application designed to help students make informed decisions after competitive exams like MHT-CET and JEE. The app reduces confusion by combining college prediction, comparison, and aptitude-based career insights into one guided experience.
 
-## Getting Started
+## Problem Statement
+Students often struggle with:
+- Scattered cutoff information
+- Lack of personalized guidance
+- Confusion between colleges, branches, and career paths
 
-This project is a starting point for a Flutter application.
+Margadarshak aims to simplify this decision-making process.
 
-A few resources to get you started if this is your first Flutter project:
+## End-to-End User Flow
+1. User onboarding
+2. Exam selection (MHT-CET/JEE)
+3. Score and preference input
+4. College prediction based on cutoffs
+5. College comparison
+6. Aptitude assessment
+7. Personalized career insights
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## My Role
+- Product ideation and problem framing
+- UX research and user flow design
+- Wireframing and prototyping (Figma)
+- Feature prioritization
+- Frontend implementation
+- Coordination with data and ML planning
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
