@@ -28,6 +28,11 @@ Margadarshak aims to simplify this decision-making process.
 - Frontend implementation
 - Coordination with data and ML planning
 
+  ## Project Status
+Margadarshak is currently a local mobile application.  
+The repository documents the complete end-to-end product flow, feature logic, and design decisions.  
+Screenshots from the working build and prototypes are included below.
+
   <img width="424" height="1214" alt="image" src="https://github.com/user-attachments/assets/a04301f4-a830-46e4-9fe9-d14c1d7add87" />
 ![career](https://github.com/user-attachments/assets/8611d8dc-0912-4854-8241-3d8a06f955a0)
 ![test](https://github.com/user-attachments/assets/1af7f66f-da8f-4249-8fad-1bf88f4983da)
